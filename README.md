@@ -1,7 +1,7 @@
 # c717_board_game
 
 ### Producer
-- TBD
+- Greg
 
 ### Project Manager
 - TBD
@@ -13,4 +13,9 @@
 - Matt
 
 ### Jr Devs
-- TBD
+- Rebecca
+- Krystal
+- Matt
+- Brian
+- Collin
+- Francesca
